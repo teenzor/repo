@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://373744747.github.io/Repositorio/sitemap.xml
