@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/teenzor/NETdawnload/sitemap.xml
+Sitemap: https://teenzor.github.io/NETdawnload/sitemap.xml
