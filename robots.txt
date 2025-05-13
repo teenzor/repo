@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/teenzor/repo/sitemap.xml
+Sitemap: https://teenzor.github.io/repo/sitemap.xml
+
